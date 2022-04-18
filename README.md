@@ -4,7 +4,7 @@ Just my notes app. Save and organize notes.
 
 ## Description
 
-My notes using Javascript. Created during the course by Mateusz Maj.
+My notes using JavaScript. Created during the course by Mateusz Maj.
 * link to the course [Mateusz Maj Course](https://www.udemy.com/course/10-projektow-w-czystym-javascript-cz-1/) (the course is in Polish)
 
 ## Getting Started
